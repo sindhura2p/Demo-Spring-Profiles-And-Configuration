@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: Demo-Profiles-Config
+  profiles:    active: devapp:
+  message: This is the Profiles and Config Demo application
+      
